@@ -1,0 +1,165 @@
+﻿nav li a.link-about-me {
+	background-color: #7D7564;
+	padding: 6px 15px;
+}
+
+p {
+	font-size: 18px;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	width: 960x;
+	height: 25px;
+	line-height: 30px;
+}
+
+h3 {
+	font-weight: normal;
+	padding-top: 50px;
+	padding-left: 20px;
+	text-align: center;
+	
+}
+
+.skill-html {
+	float: left;
+	width: 300px;
+	
+}
+
+.skills{
+	float: left;
+	width: 150px;
+	padding: 5px 0px 5px 20px;	
+}
+
+.skill-css {
+	float: left;
+	width: 300px;
+	padding-left: 20px;
+	
+	
+}
+
+.skill-sql {
+	float: left;
+	width: 300px;
+	padding: 30px 0px 0px 0px;
+	
+
+	
+}
+
+.skill-js {
+	float: left;
+	width: 300px;
+	padding: 30px 0px 0px 20px;
+	
+}
+
+
+.skill-bar-html {
+	background-color: #2CB30A;
+	height: 38px;
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 30px;	
+	border: 1px solid #48DA23;
+	border-radius: 20px;
+}
+
+.skill-bar-html:after {
+	content: '80%';
+	color: #ffffff;
+	font-size: 18px;
+	background-color: #62E243;
+	position: absolute;
+	height: 28px;
+	width: 18%;	
+	border-radius: 20px;
+	text-align: center;
+	padding: 5px;
+	
+}
+
+.skill-bar-css {
+	background-color: #26B3FA;
+	height: 38px;
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 30px;
+	border: 1px solid #8AD5FA;
+	border-radius: 20px;
+}
+
+.skill-bar-css:after {
+	content: '70%';
+	color: #ffffff;
+	font-size: 18px;
+	background-color: #6BCBFA;
+	position: absolute;
+	height: 28px;
+	width: 16%;	
+	border-radius: 20px;
+	text-align: center;
+	padding: 5px;
+	
+	
+}
+.skill-bar-sql {
+	background-color: #EC2E2E;
+	height: 38px;
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 30px;	
+	border: 1px solid #FC4E4E;
+	border-radius: 20px;
+}
+
+.skill-bar-sql:after {
+	content: '60%';
+	color: #ffffff;
+	font-size: 18px;
+	background-color: #FF5555;
+	position: absolute;
+	height: 28px;
+	width: 14%;	
+	border-radius: 20px;
+	text-align: center;
+	padding: 5px;
+	
+}
+
+.skill-bar-js {
+	background-color: #FA1F59;
+	height: 38px;
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 30px;	
+	border: 1px solid #FF7C9F;
+	border-radius: 20px;
+}
+
+.skill-bar-js:after {
+	content: '10%';
+	color: #ffffff;
+	font-size: 18px;
+	background-color: #FF648D;
+	position: absolute;
+	height: 28px;
+	width: 5%;	
+	border-radius: 20px;
+	text-align: center;
+	padding: 5px;
+	
+}
+
+p.names {
+	font-size: 20px;
+}
+
+p.names-two {
+	font-size: 20px;
+	padding: 60px 0px 0px 20px;
+}
